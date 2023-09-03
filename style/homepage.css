@@ -1,0 +1,14 @@
+#section1{
+  height: 700px;
+}
+.logo{
+  width: 700px;
+  margin: 0;
+}
+.small{
+  font-weight: 400;
+}
+.large{
+  font-weight: 700;
+  font-size: 32px;
+}
