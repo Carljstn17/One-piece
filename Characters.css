@@ -1,0 +1,55 @@
+body {
+    background-image: url("map.jpg");
+    background-repeat: repeat-y-x;
+  }
+.header{
+    width:1000px;
+    background-clip: padding-box;
+    background: rgba(97, 96, 96, 0.4);
+}
+h2{
+    font-size: 8rem;
+}
+#hehe{
+    font-size: 2rem;
+    margin-top: -100px;
+}
+table{
+    float: left;
+}
+th{
+    font-size: 4rem;
+}
+#char{
+    width: 30rem;
+}
+td{
+    height: 500px;
+}
+table, th , td{
+    border: solid 2px;
+    background-clip: padding-box;
+    background: rgba(97, 96, 96, 0.4);
+    border-radius: 2px;
+}
+img{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 5px, rgba(29, 29, 29, 0.3) 0px 10px, rgba(68, 68, 68, 0.2) 0px 15px, rgba(109, 109, 109, 0.1) 0px 20px, rgba(140, 140, 140, 0.05) 0px 25px;
+    border-radius: 10px;
+}
+
+h1, p{
+    text-align: center;
+}
+h1{
+    padding-bottom: 125px;
+    font-size: 3rem;
+}
+p{
+    font-size: 150%;
+    padding-bottom: 100px;
+}
